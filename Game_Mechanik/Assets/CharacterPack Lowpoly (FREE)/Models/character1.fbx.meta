@@ -767,7 +767,7 @@ ModelImporter:
       scale: {x: 1, y: 1, z: 0.9999998}
     - name: RightHand
       parentName: RightForeArm
-      position: {x: 0.00000016950071, y: 0.4602805, z: 0.00000005960466}
+      position: {x: -0, y: 0.46, z: 0.01}
       rotation: {x: -0.016553955, y: -0.24155255, z: -0.05366195, w: 0.96876144}
       scale: {x: 0.99999976, y: 0.99999994, z: 0.99999976}
     - name: RightHandIndex1
